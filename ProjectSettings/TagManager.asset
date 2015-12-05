@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BombPickup
+  - obstacle
+  - enemy
+  - healthPickup
+  - bombPickup
+  - ground
+  - HealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Bomb
+  - Player
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Default
+    uniqueID: 3363470833
+    locked: 0
+  - name: BG
+    uniqueID: 648001441
+    locked: 0
+  - name: BGAnim
+    uniqueID: 975818405
+    locked: 0
+  - name: BGCollider
+    uniqueID: 319040749
+    locked: 0
+  - name: UI
+    uniqueID: 2989554741
+    locked: 0
